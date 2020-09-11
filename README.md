@@ -3,10 +3,13 @@
 ![Bubble chart with one series](./bubble.png)
 
 ## Demo 
-https://handsondataviz.github.io/chartjs-bar/
+https://handsondataviz.github.io/chartjs-bubble/
 
 Sample data by TrendCT, NY Times, Stanford Ed Data Archive, American Community Survey,
 and CT State Department of Education.
+
+## Create your own
+See chapter 10: Chart.js and Highcharts templates in [Hands-On Data Visualization](https://handsondataviz.org) by Jack Dougherty and Ilya Ilyankou.
 
 `data.csv` needs to contain 4 columns: x-values, y-values, radius, and name of each data point.
 
