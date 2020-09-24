@@ -1,7 +1,6 @@
 $(document).ready(function() {
 
-  var TITLE = 'Income, Test Scores, and Enrollment in Select \
-    Connecticut School Districts, 2009-13';
+  var TITLE = 'Income, Test Scores, and Enrollment in Select Connecticut School Districts, 2009-13';
 
   var POINT_X = 'income'; // column name for x values in data.csv
   var POINT_X_PREFIX = '$'; // prefix for x values, eg '$'
